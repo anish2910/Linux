@@ -1,0 +1,14 @@
+top command displays all the processes and the amt of memory they consume,etc.
+
+sed is a streamline editor .used to replace elements witin the file.
+sed 's/hi/br/2' filename
+
+ps displays all the processes
+
+find command helps to search a file with a specific name,search a file with pattern
+
+awk is used to process or organize text files mainly in the form of rows and columns,
+cat maple.txt | awk '{print $2}'
+print the second column
+
+grep command -to perform search ops
